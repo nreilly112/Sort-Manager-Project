@@ -1,6 +1,6 @@
 package com.spart.sort;
 
-public class MergeSort {
+public class MergeSortModel {
     void merge(int ints[], int l, int m, int r)
     {
         // Find sizes of two subarrays to be merged

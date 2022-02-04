@@ -1,6 +1,6 @@
 package com.spart.sort;
 
-public class BubbleSort
+public class BubbleSortModel
 {
     void bubbleSort(int ints[])
         {
