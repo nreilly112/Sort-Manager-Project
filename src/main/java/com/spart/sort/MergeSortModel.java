@@ -3,7 +3,6 @@ package com.spart.sort;
 public class MergeSortModel {
     void merge(int ints[], int l, int m, int r)
     {
-        // Find sizes of two sub-arrays to be merged
         int n1 = m - l + 1;
         int n2 = r - m;
 
@@ -19,7 +18,6 @@ public class MergeSortModel {
 
         /* Merge the temp arrays */
 
-        // Initial indexes of first and second subarrays
         int i = 0, j = 0;
 
         // Initial index of merged subarray array
@@ -51,8 +49,6 @@ public class MergeSortModel {
         }
     }
 
-    // Main function that sorts ints[l..r] using
-    // merge()
     void sort(int ints[], int l, int r)
     {
         if (l < r) {
@@ -68,7 +64,6 @@ public class MergeSortModel {
         }
     }
 
-    /* A utility function to print array of size n */
     static void printArray(int ints[])
     {
         int n = ints.length;
