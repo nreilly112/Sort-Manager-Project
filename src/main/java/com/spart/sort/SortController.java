@@ -2,17 +2,24 @@ package com.spart.sort;
 
 public class SortController {
     public static void main(String[] args) {
-        int ints[] = {1, 2, 3, 4, 5, 6, 6, 6, 6};
+        int ints[] = {6,7,4,6,4,3,5,5,74,6,7};
         SortTypes type = UserInput.userInput();
+
         switch(type) {
             case BUBBLE -> {
                 BubbleSortModel model = new BubbleSortModel();
+                model.bubbleSort(ints);
+                SortView view = new SortView();
+                view.sortV(ints);
             }
             case MERGE -> {
                 MergeSortModel model = new MergeSortModel();
+                model.sort(ints,0,ints.length);
+                SortView view = new SortView();
+                view.sortV(ints);
             }
             case BINARY -> {
-                BinaryTree bt = new BinaryTree();
+                BinaryTreeModel bt = new BinaryTreeModel();
                 bt.root = bt.insertLevelOrder(ints, bt.root, 0);
                 bt.inOrder(bt.root);
             }
