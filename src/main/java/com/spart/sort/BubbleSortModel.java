@@ -1,7 +1,7 @@
 package com.spart.sort;
-
 public class BubbleSortModel
 {
+
     void bubbleSort(int ints[])
         {
         int l = ints.length;
