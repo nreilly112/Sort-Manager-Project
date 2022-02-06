@@ -8,29 +8,41 @@ public class SortController {
         int ints[] = {6,7,4,6,4,3,5,5,74,6,7};
         logger.info("array Ints created");
         SortTypes type = UserInput.userInput();
-        logger.info("user iput called");
-
+        logger.info("user input called");
 
         switch(type) {
             case BUBBLE -> {
                 logger.info("Bubble Sort Selected");
+                long startTime = System.nanoTime();
                 BubbleSortModel model = new BubbleSortModel();
                 model.bubbleSort(ints);
                 SortView view = new SortView();
                 view.sortV(ints);
+                long endTime = System.nanoTime();
+                long runTime = endTime - startTime;
+                System.out.println(runTime);
             }
             case MERGE -> {
                 logger.info("Merge Sort Selected");
+                long startTime = System.nanoTime();
                 MergeSortModel model = new MergeSortModel();
                 model.sort(ints,0,ints.length-1);
                 SortView view = new SortView();
                 view.sortV(ints);
+                long endTime = System.nanoTime();
+                long runTime = endTime - startTime;
+                System.out.println(runTime);
             }
             case BINARY -> {
                 logger.info("Binary Sort Selected");
+                long startTime = System.nanoTime();
                 BinaryTreeModel bt = new BinaryTreeModel();
                 bt.root = bt.insertLevelOrder(ints, bt.root, 0);
                 bt.inOrder(bt.root);
+                long endTime = System.nanoTime();
+                long runTime = endTime - startTime;
+                String time = String.valueOf(runTime);
+                System.out.println('\n' + time);
             }
             case NULL ->{
                 logger.error("No Type Selected");
@@ -40,5 +52,7 @@ public class SortController {
             }
         }
 
+
     }
+
 }
