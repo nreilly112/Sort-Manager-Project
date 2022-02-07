@@ -1,11 +1,9 @@
 package com.spart.sort;
 
 public class BinaryTreeModel {
-
-    Node root;
-
+    public Node root;
     // Tree Node
-    static class Node {
+    public static class Node {
         int data;
         Node left, right;
         Node(int data)
@@ -17,8 +15,7 @@ public class BinaryTreeModel {
     }
 
     // Function to insert nodes in level order
-    public Node insertLevelOrder(int[] ints, Node root,
-                                 int i)
+    public Node insertLevelOrder(int[] ints, Node root, int i)
     {
         // Base case for recursion
         if (i < ints.length) {

@@ -2,10 +2,18 @@ package com.spart.sort;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import java.util.Arrays;
+import java.util.Random;
+
 public class SortController {
     public static Logger logger = LogManager.getLogger("Sort Logger");
     public static void main(String[] args) {
-        int ints[] = {6,7,4,6,4,3,5,5,74,6,7};
+        Random rd = new Random(); // creating Random object
+        int[] ints = new int[40];
+        for (int i = 0; i < ints.length; i++) {
+            ints[i] = rd.nextInt(); // storing random integers in an array
+            System.out.println(Arrays.toString(ints));
+        }
         logger.info("array Ints created");
         SortTypes type = UserInput.userInput();
         logger.info("user input called");

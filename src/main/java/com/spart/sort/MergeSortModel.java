@@ -52,7 +52,7 @@ public class MergeSortModel {
 
     // Main function that sorts ints[l..r] using
     // merge()
-    void sort(int ints[], int l, int r)
+    public void sort(int ints[], int l, int r)
     {
         if (l < r) {
             // Find the middle point
