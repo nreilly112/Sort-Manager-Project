@@ -1,0 +1,72 @@
+FILE [INFO ] 2022-02-06 20:26:14,352 main Sort Logger - Merge Sort Selected
+FILE [INFO ] 2022-02-06 20:54:44,045 main Sort Logger - array Ints created
+FILE [INFO ] 2022-02-06 20:54:44,056 main Sort Logger - get user input
+FILE [INFO ] 2022-02-06 20:54:52,095 main Sort Logger - Bubble Sort Selected
+FILE [INFO ] 2022-02-06 20:54:52,096 main Sort Logger - user iput called
+FILE [INFO ] 2022-02-06 20:54:52,098 main Sort Logger - Bubble Sort Selected
+FILE [INFO ] 2022-02-06 20:54:52,100 main Sort Logger - print sorted array
+FILE [INFO ] 2022-02-06 20:57:16,350 main Sort Logger - array Ints created
+FILE [INFO ] 2022-02-06 20:57:16,361 main Sort Logger - get user input
+FILE [INFO ] 2022-02-06 20:57:26,182 main Sort Logger - Bubble Sort Selected
+FILE [INFO ] 2022-02-06 20:57:26,184 main Sort Logger - user iput called
+FILE [INFO ] 2022-02-06 20:57:26,185 main Sort Logger - Bubble Sort Selected
+FILE [INFO ] 2022-02-06 20:57:26,187 main Sort Logger - print sorted array
+FILE [INFO ] 2022-02-06 20:59:18,278 main Sort Logger - array Ints created
+FILE [INFO ] 2022-02-06 20:59:18,287 main Sort Logger - get user input
+FILE [INFO ] 2022-02-06 20:59:26,388 main Sort Logger - Bubble Sort Selected
+FILE [INFO ] 2022-02-06 20:59:26,390 main Sort Logger - user iput called
+FILE [INFO ] 2022-02-06 20:59:26,391 main Sort Logger - Bubble Sort Selected
+FILE [INFO ] 2022-02-06 20:59:26,393 main Sort Logger - print sorted array
+FILE [INFO ] 2022-02-06 21:05:49,452 main Sort Logger - array Ints created
+FILE [INFO ] 2022-02-06 21:05:49,460 main Sort Logger - get user input
+FILE [INFO ] 2022-02-06 21:05:55,922 main Sort Logger - Bubble Sort Selected
+FILE [INFO ] 2022-02-06 21:05:55,923 main Sort Logger - user input called
+FILE [INFO ] 2022-02-06 21:05:55,924 main Sort Logger - Bubble Sort Selected
+FILE [INFO ] 2022-02-06 21:05:55,926 main Sort Logger - print sorted array
+FILE [INFO ] 2022-02-06 21:06:05,276 main Sort Logger - array Ints created
+FILE [INFO ] 2022-02-06 21:06:05,286 main Sort Logger - get user input
+FILE [INFO ] 2022-02-06 21:06:12,927 main Sort Logger - Merge Sort Selected
+FILE [INFO ] 2022-02-06 21:06:12,928 main Sort Logger - user input called
+FILE [INFO ] 2022-02-06 21:06:12,929 main Sort Logger - Merge Sort Selected
+FILE [INFO ] 2022-02-06 21:06:12,931 main Sort Logger - print sorted array
+FILE [INFO ] 2022-02-06 21:06:19,338 main Sort Logger - array Ints created
+FILE [INFO ] 2022-02-06 21:06:19,347 main Sort Logger - get user input
+FILE [INFO ] 2022-02-06 21:06:27,500 main Sort Logger - Binary Tree Sort Selected
+FILE [INFO ] 2022-02-06 21:06:27,502 main Sort Logger - user input called
+FILE [INFO ] 2022-02-06 21:06:27,502 main Sort Logger - Binary Sort Selected
+FILE [INFO ] 2022-02-06 21:08:26,136 main Sort Logger - array Ints created
+FILE [INFO ] 2022-02-06 21:08:26,144 main Sort Logger - get user input
+FILE [INFO ] 2022-02-06 21:08:35,490 main Sort Logger - user input called
+FILE [ERROR] 2022-02-06 21:08:35,492 main Sort Logger - No Type Selected
+FILE [WARN ] 2022-02-06 21:08:35,492 main Sort Logger - Program will exit: no type selected
+FILE [INFO ] 2022-02-06 21:08:40,250 main Sort Logger - array Ints created
+FILE [INFO ] 2022-02-06 21:08:40,259 main Sort Logger - get user input
+FILE [INFO ] 2022-02-06 21:08:51,211 main Sort Logger - Binary Tree Sort Selected
+FILE [INFO ] 2022-02-06 21:08:51,213 main Sort Logger - user input called
+FILE [INFO ] 2022-02-06 21:08:51,214 main Sort Logger - Binary Sort Selected
+FILE [INFO ] 2022-02-06 21:11:16,481 main Sort Logger - array Ints created
+FILE [INFO ] 2022-02-06 21:11:16,490 main Sort Logger - get user input
+FILE [INFO ] 2022-02-06 21:11:26,684 main Sort Logger - Binary Tree Sort Selected
+FILE [INFO ] 2022-02-06 21:11:26,685 main Sort Logger - user input called
+FILE [INFO ] 2022-02-06 21:11:26,686 main Sort Logger - Binary Sort Selected
+FILE [INFO ] 2022-02-06 21:17:51,221 main Sort Logger - array Ints created
+FILE [INFO ] 2022-02-06 21:17:51,229 main Sort Logger - get user input
+FILE [INFO ] 2022-02-06 21:18:02,122 main Sort Logger - Binary Tree Sort Selected
+FILE [INFO ] 2022-02-06 21:18:02,124 main Sort Logger - user input called
+FILE [INFO ] 2022-02-06 21:18:02,125 main Sort Logger - Binary Sort Selected
+FILE [INFO ] 2022-02-06 23:28:12,872 main Sort Logger - array Ints created
+FILE [INFO ] 2022-02-06 23:28:12,881 main Sort Logger - get user input
+FILE [INFO ] 2022-02-06 23:28:20,604 main Sort Logger - user input called
+FILE [ERROR] 2022-02-06 23:28:20,606 main Sort Logger - No Type Selected
+FILE [WARN ] 2022-02-06 23:28:20,606 main Sort Logger - Program will exit: no type selected
+FILE [INFO ] 2022-02-06 23:28:51,893 main Sort Logger - array Ints created
+FILE [INFO ] 2022-02-06 23:28:51,902 main Sort Logger - get user input
+FILE [INFO ] 2022-02-06 23:28:58,563 main Sort Logger - user input called
+FILE [ERROR] 2022-02-06 23:28:58,564 main Sort Logger - No Type Selected
+FILE [WARN ] 2022-02-06 23:28:58,564 main Sort Logger - Program will exit: no type selected
+FILE [INFO ] 2022-02-06 23:29:03,990 main Sort Logger - array Ints created
+FILE [INFO ] 2022-02-06 23:29:03,997 main Sort Logger - get user input
+FILE [INFO ] 2022-02-06 23:29:12,916 main Sort Logger - Bubble Sort Selected
+FILE [INFO ] 2022-02-06 23:29:12,917 main Sort Logger - user input called
+FILE [INFO ] 2022-02-06 23:29:12,918 main Sort Logger - Bubble Sort Selected
+FILE [INFO ] 2022-02-06 23:29:12,920 main Sort Logger - print sorted array
